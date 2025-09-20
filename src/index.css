@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* :root {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.2;
+  font-weight: 400;
+  padding: 0px 0px;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #ffffff;
+  /* font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+  /* max-width: 1440px!important;
+  width: 1440px;
+  overflow-x: hidden!important;
+  margin: 0px auto;
+  border:1px solid red;
+  box-sizing: border-box;
+  background-color: red; */
+       /* } */
+
+

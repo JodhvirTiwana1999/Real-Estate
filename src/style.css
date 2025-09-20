@@ -1,0 +1,40 @@
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+ /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+/* .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} */
+
+.mySwiper{
+    
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px 0px;
+}
+.slider_5_button_left{
+    left: -18px!important;
+}
+.slider_5_button_right{
+    right: -18px!important;
+}
+.testimonial{
+    max-width: 1060px!important;
+}
+
+/* media query */
+
+/* @media screen and (min-width:320px) and (max-width:480px) {
+    .swiper-slide {
+        margin-right: 10px!important;
+    }  
+} */

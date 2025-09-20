@@ -1,0 +1,100 @@
+#root {
+     
+}
+.custom-swiper-button-next,
+.custom-swiper-button-prev,.custom-swiper-button-next-1,.custom-swiper-button-prev-1 {
+  @apply absolute top-1/2 z-10 w-[40px] h-[40px] flex items-center justify-center;
+}
+
+/* .custom-swiper-button-next, .custom-swiper-button-next-1 {
+  @apply right-4;
+}
+
+.custom-swiper-button-prev, .custom-swiper-button-prev-1 {
+  @apply left-4;
+} */
+
+/* .card{
+  display: grid;
+  width: 1346px;
+  gap: 49px;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0 auto;
+} */
+
+
+html, body {
+  position: relative;
+  padding: 0;
+
+  width: 100%;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+#root {
+  min-height: 100vh !important;
+  margin: 0px auto;
+  max-width: 1440px;
+ 
+}
+
+.navli:hover .navspan{
+  width: 100%;
+}
+
+@media screen and (min-width:601px) and (max-width:639px) {
+  .firstslide{
+     margin-top: 14rem;
+  }
+}
+@media screen and (min-width:551px) and (max-width:600px) {
+  .firstslide{
+     margin-top: 12.3rem;
+  }
+  
+}
+@media screen and (min-width:516px) and (max-width:550px) {
+  .firstslide{
+     margin-top: 11rem;
+  }
+  
+}
+@media screen and (min-width:480px) and (max-width:515px) {
+  .firstslide{
+     margin-top: 10rem;
+  }
+  
+}
+
+@media screen and (min-width:457px) and (max-width:479px) {
+  .firstslide{
+     margin-top: 9rem;
+  }
+  
+}
+@media screen and (min-width:400px) and (max-width:456px) {
+  .firstslide{
+     margin-top: 5.3rem;
+  }
+  
+}
+
+@media screen and (min-width:320px) and (max-width:399px) {
+  .firstslide{
+     margin-top: 3rem;
+  }
+  
+}
+
+.main-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* taake upar rahe */
+  background-color: white; /* ya jo bhi background ho */
+}
+.scrolled {
+  background-color: rgb(217,217,217)!important;
+}
