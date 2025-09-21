@@ -52,7 +52,7 @@ export default function Header() {
              </div>
              {/* This is third part of header */}
              <div className='xs:hidden sm:hidden md:block'>
-                 <button className='text-black f-[16px] xl:w-[183px] xl:h-[51px] lg:w-[160px] lg:h-[45px] md:w-[160px] md:text-[0.8rem] lg:text-[0.9rem] xl:text-[1rem] md:h-[45px] bg-[#bb902d] rounded-[30px] px-[8px] py-[16px] flex gap-[10px] justify-center items-center' onClick={()=>setIsLogin(true)}>Request a Visit<span className=' max-w-[24px] max-h-[20px] f-[16px] flex  justify-center'><img src="../public/image/ArrowBlack.svg" alt="Arrow" /></span></button>
+                 <button className='text-black f-[16px] xl:w-[183px] xl:h-[51px] lg:w-[160px] lg:h-[45px] md:w-[160px] md:text-[0.8rem] lg:text-[0.9rem] xl:text-[1rem] md:h-[45px] bg-[#bb902d] rounded-[30px] px-[8px] py-[16px] flex gap-[10px] justify-center items-center' onClick={()=>setIsLogin(true)}>Request a Visit<span className=' max-w-[24px] max-h-[20px] f-[16px] flex  justify-center'><img src="/Real-Estate/image/ArrowBlack.svg" alt="Arrow" /></span></button>
              </div>
                <div className='md:hidden'>
                    <RxHamburgerMenu className=' h-[2.4rem] w-[2.4rem] text-[#bb902d] border-[0.1px] border-[#bb902d] p-[1px] rounded-[0.5rem]' onClick={()=>setResponsive(true)}/>
