@@ -53,7 +53,7 @@ export default function Sliders() {
         {/* Slide 1 */}
         <SwiperSlide className="!flex flex-col items-center justify-center gap-[16px] "
           style={{
-            backgroundImage: 'url("/image/background.svg")',
+            backgroundImage: 'url("/Real-Estate/image/background.svg")',
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
             width: '100%',
@@ -78,7 +78,7 @@ export default function Sliders() {
         {/* Slide 2 & 3 */}
             <SwiperSlide className="!flex flex-col items-center justify-center gap-[16px] "
           style={{
-            backgroundImage: 'url("Real-Estate/image/background-home-2.svg")',
+            backgroundImage: 'url("/Real-Estate/image/background-home-2.svg")',
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
             width: '100%',
