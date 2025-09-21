@@ -14,10 +14,10 @@ export default function Sliders() {
     <div className="relative max-w-[1440px] w-full ">
       {/* 🔁 Custom navigation buttons outside Swiper */}
       <button className="w-[48px] h-[48px] rounded-[20px] p-2 bg-amber-50 custom-swiper-button-prev absolute left-4 top-1/2 z-10 transform -translate-y-1/2">
-        <img src="/image/ArrowBlack.svg" className='rotate-180' alt="Previous" />
+        <img src="/Real-Estate/image/ArrowBlack.svg" className='rotate-180' alt="Previous" />
       </button>
       <button className="w-[48px] h-[48px] rounded-[20px] p-2  bg-amber-50 custom-swiper-button-next absolute right-4 top-1/2 z-10 transform -translate-y-1/2">
-        <img src="/image/ArrowBlack.svg"  alt="Next" />
+        <img src="/Real-Estate/image/ArrowBlack.svg"  alt="Next" />
       </button>
 
       <Swiper
@@ -69,7 +69,7 @@ export default function Sliders() {
             <button className="border border-amber-50 text-white text-[16px] w-[183px] h-[51px] bg-transparent rounded-[30px] px-[8px] py-[16px] flex gap-[10px] justify-center items-center">
               Request a Visit
               <span className="max-w-[24px] max-h-[20px] flex justify-center ">
-                <img src="/image/ArrowWhite.svg"  alt="Arrow" />
+                <img src="/Real-Estate/image/ArrowWhite.svg"  alt="Arrow" />
               </span>
             </button>
           </div>
@@ -78,7 +78,7 @@ export default function Sliders() {
         {/* Slide 2 & 3 */}
             <SwiperSlide className="!flex flex-col items-center justify-center gap-[16px] "
           style={{
-            backgroundImage: 'url("/image/background-home-2.svg")',
+            backgroundImage: 'url("Real-Estate/image/background-home-2.svg")',
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
             width: '100%',
@@ -94,7 +94,7 @@ export default function Sliders() {
             <button className="border border-amber-50 text-white text-[16px] w-[183px] h-[51px] bg-transparent rounded-[30px] px-[8px] py-[16px] flex gap-[10px] justify-center items-center">
               Request a Visit
               <span className="max-w-[24px] max-h-[20px] flex justify-center ">
-                <img src="/image/ArrowWhite.svg"  alt="Arrow" />
+                <img src="/Real-Estate/image/ArrowWhite.svg"  alt="Arrow" />
               </span>
             </button>
           </div>
@@ -104,7 +104,7 @@ export default function Sliders() {
 
          <SwiperSlide className="!flex flex-col items-center justify-center gap-[16px] "
           style={{
-            backgroundImage: 'url("/image/background-home-3.svg")',
+            backgroundImage: 'url("/Real-Estate/image/background-home-3.svg")',
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
             width: '100%',
@@ -120,7 +120,7 @@ export default function Sliders() {
             <button className="border border-amber-50 text-white text-[16px] w-[183px] h-[51px] bg-transparent rounded-[30px] px-[8px] py-[16px] flex gap-[10px] justify-center items-center">
               Request a Visit
               <span className="max-w-[24px] max-h-[20px] flex justify-center ">
-                <img src="/image/ArrowWhite.svg"  alt="Arrow" />
+                <img src="/Real-Estate/image/ArrowWhite.svg"  alt="Arrow" />
               </span>
             </button>
           </div>
