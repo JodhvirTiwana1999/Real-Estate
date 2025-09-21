@@ -54,11 +54,11 @@ const handleNext = () => {
                          Real estate involves buying, selling, or renting properties such as homes, commercial buildings, and land. It includes market analysis, investment opportunities, and legal procedures for property transactions and development.
                       </p>
                     <ul className='xs:pb-4 sm:pb-4 md:pb-0 xs:w-fit md:w-full sm:text-left xs:text-left xs:mx-auto sm:mx-auto md:mx-0'>
-                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[20px] sm:mt-[25px] md:mt-[20px] lg:mt-[35px]'><span ><img src="/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Multi-Unit Residences (Duplexes Triplexes etc.)</li>
-                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[10px] sm:mt-[15px] md:mt-[10px] lg:mt-[25px]'><span ><img src="/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Total Satisfaction Guarantee</li>
-                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[10px] sm:mt-[15px] md:mt-[10px] lg:mt-[25px]'><span ><img src="/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Industrial Real Estate (Warehouses Factories)</li>
-                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[10px] sm:mt-[15px] md:mt-[10px] lg:mt-[25px]'><span ><img src="/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Innovation and Development Centers</li>
-                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[10px] sm:mt-[15px] md:mt-[10px] lg:mt-[25px]'><span ><img src="/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Future Development Hubs</li>
+                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[20px] sm:mt-[25px] md:mt-[20px] lg:mt-[35px]'><span ><img src="/Real-Estate/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Multi-Unit Residences (Duplexes Triplexes etc.)</li>
+                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[10px] sm:mt-[15px] md:mt-[10px] lg:mt-[25px]'><span ><img src="/Real-Estate/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Total Satisfaction Guarantee</li>
+                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[10px] sm:mt-[15px] md:mt-[10px] lg:mt-[25px]'><span ><img src="/Real-Estate/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Industrial Real Estate (Warehouses Factories)</li>
+                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[10px] sm:mt-[15px] md:mt-[10px] lg:mt-[25px]'><span ><img src="/Real-Estate/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Innovation and Development Centers</li>
+                         <li className='  xs:text-[14px] md:text-[16px] lg:text-[18px] xs:mt-[10px] sm:mt-[15px] md:mt-[10px] lg:mt-[25px]'><span ><img src="/Real-Estate/image/check-box-about.svg" className='inline mr-2' alt="check" /></span>Future Development Hubs</li>
                     </ul>
 
                </div>
