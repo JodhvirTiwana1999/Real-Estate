@@ -5,7 +5,7 @@ import { RxHamburgerMenu } from "react-icons/rx";
 import { IoMdClose } from "react-icons/io";
 import { NavLink } from 'react-router-dom';
 import Signup from './Signup';
-
+import logo from "../public/image/logo.svg"
 
 export default function Header() {
   let [Responsive,setResponsive] = useState (false)
@@ -16,7 +16,7 @@ export default function Header() {
   className=' h-[100px] sticky top-0 z-20 w-full max-w-[1440px] px-[8px] mx-auto py-[16px] bg-[rgba(217,217,217,0.88)] flex justify-between items-center' >
              {/* This is first part of header */}
              <div>
-                  <img src="../public/image/logo.svg" className='sm:w-[158px] sm:h-[74px] xs:w-[138px] xs:h-[74px]' alt="Loding.." />
+                  <img src={logo} className='sm:w-[158px] sm:h-[74px] xs:w-[138px] xs:h-[74px]' alt="Loding.." />
              </div>
              {/* This is second part of header */}
              <div>
