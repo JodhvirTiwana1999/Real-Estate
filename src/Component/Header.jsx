@@ -5,7 +5,7 @@ import { RxHamburgerMenu } from "react-icons/rx";
 import { IoMdClose } from "react-icons/io";
 import { NavLink } from 'react-router-dom';
 import Signup from './Signup';
-import logo from "../image/logo.svg"
+import logo from "/Real-Estate/image/logo.svg"
 
 export default function Header() {
   let [Responsive,setResponsive] = useState (false)
