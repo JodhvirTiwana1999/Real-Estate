@@ -17,7 +17,7 @@ export default function Contact() {
   }, []);
 
   return (
-    <section className=' h-full h-fit px-5 py-14 w-full py-19 bg-[url("./image/Contact/background.svg")] bg-no-repeat bg-cover flex xs:flex-col sm:flex-row justify-center xs:gap-[60px] sm:gap-[30px] md:gap-[50px] lg:gap-[40px] xl:gap-[120px]'>
+    <section className=' h-full h-fit px-5 py-14 w-full py-19 bg-[url("/image/Contact/background.svg")] bg-no-repeat bg-cover flex xs:flex-col sm:flex-row justify-center xs:gap-[60px] sm:gap-[30px] md:gap-[50px] lg:gap-[40px] xl:gap-[120px]'>
            <div data-aos="fade-right" className='xs:w-[100%] sm:w-[45%] lg:w-auto h-full'>
                <h2 className=' text-white lg:text-[46px] md:text-[35px] sm:text-[30px] xs:text-[32px] xs:text-center sm:text-left'>Contact Infomation</h2>
                 <div className='flex gap-6 mt-[42px] xs:justify-center sm:justify-normal'>
