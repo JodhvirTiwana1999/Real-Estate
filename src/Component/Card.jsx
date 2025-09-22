@@ -10,11 +10,11 @@ export default function Card({image,data}) {
                     <span className='mt-2 text-[12px] mx-2 rounded-[5px]  p-2 bg-[rgba(0,0,0,0.8)] text-white inline-block'>For Sale</span>
                 </div>
                 <div className='w-full flex justify-between items-center px-1 absolute bottom-0 mb-2'>
-                     <h4 className='text-[13px]'><span className='mr-1'><img src="../public/image/building_logo.svg" className='inline' alt="building" /></span>APARTMENT</h4>
+                     <h4 className='text-[13px]'><span className='mr-1'><img src="image/building_logo.svg" className='inline' alt="building" /></span>APARTMENT</h4>
                     <div className='flex flex-row gap-[7px]'>
-                       <img src="../public/image/changearrow.svg" alt="icon"/>
-                       <img src="../public/image/Hearticon.svg" alt="heart"/>
-                       <img src="../public/image/zoomeicon.svg" alt="zoom"/>
+                       <img src="image/changearrow.svg" alt="icon"/>
+                       <img src="image/Hearticon.svg" alt="heart"/>
+                       <img src="/Real-Estate/Public/image/zoomeicon.svg" alt="zoom"/>
                     </div>                    
   
                 </div>
@@ -22,12 +22,12 @@ export default function Card({image,data}) {
           <div className='w-full h-[263px] bg-[#f8f5f0] text-black px-2 relative'>
                <h2 className='text-[21px] text-[#AA8453] font-semibold pt-[22px]' >$2025 <span className='text-[14px] text-[#6D7175]'>( Monthly )</span></h2>
                <h4 className='font-[18px] font-semibold text-[#6D7175] mt-1.5'>Family House Residense</h4>
-               <h4 className='font-[14px] font-semibold text-[#6D7175] mt-[10px]'><span><img src="../public/image/location_icon.svg" className='inline pr-1' alt="#" /></span>4213 South Burlings, Usa</h4>
+               <h4 className='font-[14px] font-semibold text-[#6D7175] mt-[10px]'><span><img src="image/location_icon.svg" className='inline pr-1' alt="#" /></span>4213 South Burlings, Usa</h4>
                <ul className='font-[14px] font-semibold text-[#6D7175] flex mt-[17px] gap-1'>
-                   <li><span><img src="../public/image/bedroom.svg" className='inline' alt="#" /></span>7</li>
-                   <li><span><img src="../public/image/shower.svg" className='inline' alt="#" /></span>5</li>
-                   <li><span><img src="../public/image/arcticons.svg" className='inline' alt="#" /></span>1200sqft</li>
-                   <li><span><img src="../public/image/fire.svg" className='inline' alt="#" /></span>Yes</li>
+                   <li><span><img src="image/bedroom.svg" className='inline' alt="#" /></span>7</li>
+                   <li><span><img src="image/shower.svg" className='inline' alt="#" /></span>5</li>
+                   <li><span><img src="image/arcticons.svg" className='inline' alt="#" /></span>1200sqft</li>
+                   <li><span><img src="image/fire.svg" className='inline' alt="#" /></span>Yes</li>
                </ul>
                <div className='absolute bottom-5 inset-x-0 '>
                     <hr className='border-[#6D7175] my-5'/>

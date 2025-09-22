@@ -48,7 +48,7 @@ const handleNext = () => {
                     <img src="./image/background-about.svg"  className='md:h-[320px] lg:h-auto md:w-[320px] lg:w-auto xm:w-[400px] xm:h-[400px] xs:w-[300px] xs:h-[300px] ' alt="about"/>
                </div>
                <div  data-aos="fade-left" className=' md:w-[100%] lg:w-[50%] xs:text-center sm:text-center md:text-left'>
-                      <h4 className='text-[16px] xs:mt-[0px] sm:mt-[0px] md:mt-[42px]'><span><img src="/Real-Estate/image/line-about.svg" className='inline mr-3' alt="line"/></span>About Us<span><img src="/Real-Estate/image/line-about.svg" className='inline ml-3' alt="line"/></span></h4>
+                      <h4 className='text-[16px] xs:mt-[0px] sm:mt-[0px] md:mt-[42px]'><span><img src="/Real-Estate/public/image/line-about.svg" className='inline mr-3' alt="line"/></span>About Us<span><img src="/Real-Estate/public/image/line-about.svg" className='inline ml-3' alt="line"/></span></h4>
                       <h2 className=' xs:text-[35px] sm:text-[35px] md:text-[35px] lg:text-[48px]  lg:mt-[18px] xs:mt-[0px] md:mt-[14px]'>Introducing Realar</h2>
                       <p className='px-2 sm:text-center md:text-left md:text-[15px] lg:text-[18px] md:leading-[24px] lg:leading-[28px]  md:mt-[14px] lg:mt-[27px]'>
                          Real estate involves buying, selling, or renting properties such as homes, commercial buildings, and land. It includes market analysis, investment opportunities, and legal procedures for property transactions and development.
@@ -98,7 +98,7 @@ const handleNext = () => {
           <section data-aos="fade-down" className='max-h-[900px] h-auto  border border-transparent w-full bg-[#f8f5f0] text-black mt-[36px]'>
               <div className='flex justify-between px-3 sm:flex-row xs:flex-col sm:text-left xs:text-center'>
                    <div className='main'>
-                         <h4 className='text-[16px] pt-[42px] '><span><img src="/Real-Estate/image/Black-Line.svg" className='inline mr-3' alt="line"/></span>News & Blog<span><img src="../public/image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
+                         <h4 className='text-[16px] pt-[42px] '><span><img src="/Real-Estate/image/Black-Line.svg" className='inline mr-3' alt="line"/></span>News & Blog<span><img src="image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
                           <h2 className='xs:text-[32px] sm:text-[32px] md:text-[38px] lg:text-[48px] mt-[18px] font-light'>Explore Our Insights</h2>
                           <p className='font-medium mt-[13px] sm:text-[13px] md:text-[15px] lg:text-[18px]'>Architects and engineers work together to transform concepts<br className='xs:hidden xm:block'/>
                            into practical structures.</p>
@@ -120,7 +120,7 @@ const handleNext = () => {
                   <button className="border items-center border-black text-black text-[16px] w-[183px] h-[51px] bg-transparent rounded-[30px] px-[8px] py-[16px] flex gap-[10px] justify-center m-auto">
                                 Request a Visit
                                 <span className="max-w-[24px] max-h-[20px] flex justify-center ">
-                                <img src="/image/ArrowBlack.svg"  alt="Arrow" />
+                                <img src="/Real-Estate/image/ArrowBlack.svg"  alt="Arrow" />
                                 </span>
                   </button>
 

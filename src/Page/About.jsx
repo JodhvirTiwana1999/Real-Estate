@@ -28,7 +28,7 @@ export default function About() {
        </section>
        <section data-aos="fade-up" className='h-auto xs:pb-8 xl:pb-0 xl:h-[726px] bg-[#F8F5F0]'>
               <div className='pt-[53px] text-center text-black'>
-                         <h4 className='text-[16px]  '><span><img src="../public/image/Black-Line.svg" className='inline mr-3' alt="line"/></span>Our Expertise<span><img src="../public/image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
+                         <h4 className='text-[16px]  '><span><img src="image/Black-Line.svg" className='inline mr-3' alt="line"/></span>Our Expertise<span><img src="image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
                          <p className='font-medium mt-[18px] text-[36px] px-2 xs:text-[25px] md:text-[30px] lg:text-[36px]'>Premier Housing and Construction Experts</p>
                    </div>
                    <div className=' flex xs:flex-col xm:flex-row flex-wrap justify-center xs:content-center xm:content-normal'>

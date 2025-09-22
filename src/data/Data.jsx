@@ -5,10 +5,10 @@ export let data = [
   },
   {
     id: 2,
-    image: "../public/image/Background_Card2.svg"
+    image: "image/Background_Card2.svg"
   },
   {
     id: 3,
-    image: "../public/image/Background_Card3.svg"
+    image: "image/Background_Card3.svg"
   },
 ];

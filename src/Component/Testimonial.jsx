@@ -21,10 +21,10 @@ export default function Testimonial({  }) {
     <div className=' mx-auto max-w-[1280px] pb-10 h-full relative xs:px-[60px] sm:px-[60px] md:px-[60px] lg:px-[80px] xl:px-0 '>
          {/* 🔁 Custom navigation buttons outside Swiper */}
       <button className="w-[48px] h-[48px] rounded-[20px] p-2 bg-black custom-swiper-button-prev absolute left-4 top-1/2 z-10 transform -translate-y-1/2">
-        <img src="/image/ArrowWhite.svg" className='rotate-180' alt="Previous" />
+        <img src="image/ArrowWhite.svg" className='rotate-180' alt="Previous" />
       </button>
       <button className="w-[48px] h-[48px] rounded-[20px] p-2  bg-black custom-swiper-button-next absolute right-4 top-1/2 z-10 transform -translate-y-1/2">
-        <img src="/image/ArrowWhite.svg"  alt="Next" />
+        <img src="image/ArrowWhite.svg"  alt="Next" />
       </button>
          
           <Swiper

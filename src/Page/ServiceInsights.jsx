@@ -42,7 +42,7 @@ useEffect(() => {
     <section className='xs:h-full  lg:h-[810px]  w-full bg-[#f8f5f0] text-black  xs:py-[36px] lg:pt-[36px]'>
       <div data-aos="fade-right" className='flex justify-between px-3 sm:flex-row xs:flex-col sm:text-left xs:text-center'>
                    <div className='main'>
-                         <h4 className='text-[16px] pt-[42px] '><span><img src="../public/image/Black-Line.svg" className='inline mr-3' alt="line"/></span>News & Blog<span><img src="../public/image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
+                         <h4 className='text-[16px] pt-[42px] '><span><img src="/Real-Estate/public/image/Black-Line.svg" className='inline mr-3' alt="line"/></span>News & Blog<span><img src="/Real-Estate/public/image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
                           <h2 className='xs:text-[32px] sm:text-[32px] md:text-[38px] lg:text-[48px] mt-[18px] font-light'>Recent Blog</h2>
                           <p className='font-medium mt-[13px] sm:text-[13px] md:text-[15px] lg:text-[18px]'>Collaboration Between Architects and Engineers for <br className='xs:hidden xm:block'/>
                            Transforming Concepts into Structures.</p>

@@ -43,7 +43,7 @@ useEffect(() => {
          </div>
          <div data-aos="fade-down" className='h-fit  py-2 bg-white'>
              <div className=' px-4'>
-                <h4 className='text-[16px] pt-[42px] text-center text-black'><span><img src="../public/image/Black-Line.svg" className='inline mr-3' alt="line"/></span>FAQ's<span><img src="../public/image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
+                <h4 className='text-[16px] pt-[42px] text-center text-black'><span><img src="/Real-Estate/public/image/Black-Line.svg" className='inline mr-3' alt="line"/></span>FAQ's<span><img src="/Real-Estate/public/image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
                     <h2 className='xs:text-[34px] sm:text-[39px] mt-[17px]  text-center text-black'>Frequently Asked Questions</h2>
                     <p className='font-medium mt-[17px] text-[18px] text-center text-black'>Have questions you want answers to?
                             </p>
