@@ -48,7 +48,7 @@ const handleNext = () => {
                     <img src="./image/background-about.svg"  className='md:h-[320px] lg:h-auto md:w-[320px] lg:w-auto xm:w-[400px] xm:h-[400px] xs:w-[300px] xs:h-[300px] ' alt="about"/>
                </div>
                <div  data-aos="fade-left" className=' md:w-[100%] lg:w-[50%] xs:text-center sm:text-center md:text-left'>
-                      <h4 className='text-[16px] xs:mt-[0px] sm:mt-[0px] md:mt-[42px]'><span><img src="/Real-Estate/public/image/line-about.svg" className='inline mr-3' alt="line"/></span>About Us<span><img src="/Real-Estate/public/image/line-about.svg" className='inline ml-3' alt="line"/></span></h4>
+                      <h4 className='text-[16px] xs:mt-[0px] sm:mt-[0px] md:mt-[42px]'><span><img src="/Real-Estate/public/image/line-about.svg" className='inline mr-3' alt="line"/></span>About Us<span><img src="image/line-about.svg" className='inline ml-3' alt="line"/></span></h4>
                       <h2 className=' xs:text-[35px] sm:text-[35px] md:text-[35px] lg:text-[48px]  lg:mt-[18px] xs:mt-[0px] md:mt-[14px]'>Introducing Realar</h2>
                       <p className='px-2 sm:text-center md:text-left md:text-[15px] lg:text-[18px] md:leading-[24px] lg:leading-[28px]  md:mt-[14px] lg:mt-[27px]'>
                          Real estate involves buying, selling, or renting properties such as homes, commercial buildings, and land. It includes market analysis, investment opportunities, and legal procedures for property transactions and development.
