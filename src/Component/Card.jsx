@@ -14,7 +14,7 @@ export default function Card({image,data}) {
                     <div className='flex flex-row gap-[7px]'>
                        <img src="image/changearrow.svg" alt="icon"/>
                        <img src="image/Hearticon.svg" alt="heart"/>
-                       <img src="/Real-Estate/Public/image/zoomeicon.svg" alt="zoom"/>
+                       <img src="/Real-Estate/Public/image/Zoomeicon.svg" alt="zoom"/>
                     </div>                    
   
                 </div>
