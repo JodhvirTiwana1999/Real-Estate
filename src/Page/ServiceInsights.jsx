@@ -31,7 +31,7 @@ useEffect(() => {
   
     return (
        <section className='overflow-x-hidden'>
-          <section data-aos="fade-down" className='bg-[url("./image/background-about-page.svg")] h-[300px] flex items-center justify-center ' >
+          <section data-aos="fade-down" className='bg-[url("/image/background-about-page.svg")] h-[300px] flex items-center justify-center ' >
                <div className='text-center text-white px-2'>
                    <h4 className='xs:text-[28px] xm:text-[38px]'>Explore Our Service Insights</h4>
                    <p className='mt-[30px] xs:font-[15px] xm:font-[18px]'>Uncover Customized Solutions Designed for You.</p>
@@ -42,7 +42,7 @@ useEffect(() => {
     <section className='xs:h-full  lg:h-[810px]  w-full bg-[#f8f5f0] text-black  xs:py-[36px] lg:pt-[36px]'>
       <div data-aos="fade-right" className='flex justify-between px-3 sm:flex-row xs:flex-col sm:text-left xs:text-center'>
                    <div className='main'>
-                         <h4 className='text-[16px] pt-[42px] '><span><img src="/Real-Estate/public/image/Black-Line.svg" className='inline mr-3' alt="line"/></span>News & Blog<span><img src="/Real-Estate/public/image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
+                         <h4 className='text-[16px] pt-[42px] '><span><img src="image/Black-Line.svg" className='inline mr-3' alt="line"/></span>News & Blog<span><img src="image/Black-Line.svg" className='inline ml-3' alt="line"/></span></h4>
                           <h2 className='xs:text-[32px] sm:text-[32px] md:text-[38px] lg:text-[48px] mt-[18px] font-light'>Recent Blog</h2>
                           <p className='font-medium mt-[13px] sm:text-[13px] md:text-[15px] lg:text-[18px]'>Collaboration Between Architects and Engineers for <br className='xs:hidden xm:block'/>
                            Transforming Concepts into Structures.</p>
