@@ -16,7 +16,7 @@ export default function Service() {
   
      return (
       <>
-          <section data-aos="fade-down" className='bg-[url("image/background-about-page.svg")] h-[300px] flex items-center justify-center text-white px-2' >
+          <section data-aos="fade-down" className='bg-[url("/image/background-about-page.svg")] h-[300px] flex items-center justify-center text-white px-2' >
                <div className='text-center'>
                    <h4 className='xs:text-[30px] xm:text-[38px] '>Our Service Solution</h4>
                    <p className='xs:mt-[25px] xm:mt-[30px] font-[18px]'>We design, develop, and strategize to deliver valuable products.</p>
