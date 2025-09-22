@@ -292,7 +292,7 @@ making it easy to find your ideal home</h6>
       <div className='h-auto bg-[#FFFAFA] md:px-[30px] lg:px-[60px] md:py-[37px] lg:py-[57px] flex xs:flex-col sm:flex-row xs:gap-[40px] sm:gap-[10px] md:gap-[50px] lg:gap-[80px] xs:py-5 sm:py-0'>
             <div data-aos="zoom-in-right" className=' sm:max-w-[600px] bg-transparent flex-col  text-black gap-[67px] px-3  '>
                     <div className='w-[100%] flex flex-col items-center justify-center'>
-                        <img src="/image/Portfolio/After.svg" alt="about"/>
+                        <img src="image/Portfolio/After.svg" alt="about"/>
                         <h2 className='mt-[19px] text-[39px]'>Before</h2>
                     </div>
                 <div className=' flex flex-col justify-center xs:mt-[50px] lg:mt-[65px]'>
@@ -310,7 +310,7 @@ making it easy to find your ideal home</h6>
             </div>
              <div data-aos="zoom-in-left" className=' sm:max-w-[600px] bg-transparent flex-col  text-black gap-[67px] px-3  '>
                     <div className='w-[100%] flex flex-col items-center justify-center'>
-                        <img src="/image/Portfolio/Before.svg" alt="about"/>
+                        <img src="image/Portfolio/Before.svg" alt="about"/>
                          <h2 className='mt-[19px] text-[39px]'>After</h2>
                     </div>
                 <div className=' flex flex-col justify-center xs:mt-[50px] lg:mt-[65px]'>
