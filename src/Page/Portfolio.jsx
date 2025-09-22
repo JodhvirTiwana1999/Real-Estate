@@ -19,7 +19,7 @@ export default function Portfolio() {
 
   return (
          <section className='overflow-x-hidden'>
-            <section data-aos="fade-down" className='bg-[url("./image/background-about-page.svg")] h-[300px] flex items-center justify-center' >
+            <section data-aos="fade-down" className='bg-[url("/image/background-about-page.svg")] h-[300px] flex items-center justify-center' >
                <div className='text-center'>
                    <h4 className='xs:text-[30px] sm:text-[38px] text-white'>Explore Our Solution Portfolio</h4>
                    <p className='xs:mt-[22px] sm:mt-[30px] xs:font-[15px] sm:font-[18px] text-white'>Discover innovative solutions tailored to meet your needs.</p>
