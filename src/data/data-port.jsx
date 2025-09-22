@@ -5,11 +5,11 @@ export let datap = [
   },
   {
     id: 2,
-    image: "/Real-Estate/public/image/Background_Card2.svg"
+    image: "image/Background_Card2.svg"
   },
   {
     id: 3,
-    image: "/Real-Estate/public/image/Background_Card3.svg"
+    image: "image/Background_Card3.svg"
   },
    {
     id: 4,
@@ -17,10 +17,10 @@ export let datap = [
   },
   {
     id: 5,
-    image: "/Real-Estate/public/image/Background_Card2.svg"
+    image: "image/Background_Card2.svg"
   },
   {
     id: 6,
-    image: "/Real-Estate/public/image/Background_Card3.svg"
+    image: "image/Background_Card3.svg"
   },
 ];

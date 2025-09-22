@@ -20,7 +20,7 @@ export default function About() {
   
     return (
       <section className='overflow-x-hidden'>
-          <section data-aos="fade-down" className='bg-[url("./image/background-about-page.svg")] h-[300px] flex items-center justify-center' >
+          <section data-aos="fade-down" className='bg-[url("/image/background-about-page.svg")] h-[300px] flex items-center justify-center' >
                <div className='text-center'>
                    <h4 className='text-[38px] text-white'>Get to Know Us</h4>
                    <p className='mt-[30px] font-[18px] text-white px-2 '>We design, develop, and strategize to deliver valuable products.</p>
