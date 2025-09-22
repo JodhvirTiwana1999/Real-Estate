@@ -31,7 +31,7 @@ export default function Service() {
                     <img src="image/Service/background-1.svg" className='sm:min-w-[260px] md:min-w-[350px]' alt="about"/>
                </div>
                <div data-aos="fade-right" className='xs:w-[100%] sm:w-[50%] '>
-                      <h4 className='xs:hidden sm:block text-[16px] sm:mt-[20px] lg:mt-[42px] min-w-[180px] sm:mb-[8px]'><span><img src="/Real-Estate/public/image/line-about.svg" className='inline mr-3' alt="line"/></span>Services<span><img src="/Real-Estate/public/image/line-about.svg" className='inline ml-3' alt="line"/></span></h4>
+                      <h4 className='xs:hidden sm:block text-[16px] sm:mt-[20px] lg:mt-[42px] min-w-[180px] sm:mb-[8px]'><span><img src="image/Line-about.svg" className='inline mr-3' alt="line"/></span>Services<span><img src="image/Line-about.svg" className='inline ml-3' alt="line"/></span></h4>
                       <h2 className=' xs:text-center sm:[text-align:unset;] xs:text-[25px] xs:mt-[25px] sm:mt-0 sm:text-[25px] md:text-[30px] lg:text-[44px] md:mt-[0px]'>Tailored Home Designs</h2>
                       <p className='xs:text-[14px] md:text-[15px] lg:text-[18px] sm:leading-[25px] md:leading-[28px] xs:mt-[12px] sm:mt-[22px] lg:mt-[27px] xs:text-center sm:[text-align:unset;]'>
                          Bring your dream home to life with custom designs crafted by expert architects. We tailor every detail to match your unique style, needs, and vision, ensuring a perfect balance of functionality and beauty in every space of your homeTransform your vision into reality with bespoke home designs by expert architects.
