@@ -8,7 +8,7 @@ export default function Signup({setIsLogin}) {
       <section className='relative w-full h-auto grid xs:grid-cols-1 md:grid-cols-2 '>
            <button className='absolute right-4 top-4 p-1 xs:h-[35px] md:h-[45px] xs:w-[35px] md:w-[45px] rounded-xl bg-black z-20 xs:text-[20px] md:text-[25px] text-white hover:text-[yellow] flex justify-center items-center' onClick={()=>setIsLogin(false)}>X</button>
              <div  className='h-full'>
-                   <img src="../public/image/Signup/signup.svg" className='object-cover h-full xs:hidden md:block'  alt="#" />
+                   <img src="image/Signup/Signup.svg" className='object-cover h-full xs:hidden md:block'  alt="#" />
              </div>
              <div className='bg-[#f8f5f0] xs:px-2 lg:px-10 py-6 w-full max-h-[808px] h-full overflow-hidden'>
                     <div className='bg-white  md:max-w-[526px] w-full max-h-[708px] h-full px-5'>
